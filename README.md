@@ -2,63 +2,60 @@
 
 This website show you the basic operation of CRUD (Create, Retrieve, Update and Delete) for PHP.
 
-## Preview
+## Homepage
 
-[![Homepage](https://github.com/NoorHelmi22/Basic-CRUD-for-PHP/tree/master/img/PHP.png?raw=true)]
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)(https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+![Homepage](https://github.com/NoorHelmi22/Basic-CRUD-for-PHP/blob/master/img/screenshot/home.png?raw=true)
 
-**[Launch Live Preview](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)**
+## Insert (Create) for single table and column
 
-## Status
+Insert page that use only one table and column in database.
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-sb-admin-2/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-sb-admin-2.svg)](https://www.npmjs.com/package/startbootstrap-sb-admin-2)
-[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-sb-admin-2.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-sb-admin-2)
-[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2)
-[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2?type=dev)
+![Homepage](https://github.com/NoorHelmi22/Basic-CRUD-for-PHP/blob/master/img/screenshot/insert1.png?raw=true)
 
-## Download and Installation
+## Insert (Create) for multiple tables and columns
 
-To begin using this template, choose one of the following options to get started:
+Insert page that use multiple tables and columns in database.
 
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/themes/sb-admin-2/)
-* Install via npm: `npm i startbootstrap-sb-admin-2`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-sb-admin-2.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-sb-admin-2)
+![Homepage](https://github.com/NoorHelmi22/Basic-CRUD-for-PHP/blob/master/img/screenshot/insert2.png?raw=true)
 
-## Usage
+## Read (Retrieve) for single table and column
 
-After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+Read page that use single table and column in database.
 
-### Gulp Tasks
+![Homepage](https://github.com/NoorHelmi22/Basic-CRUD-for-PHP/blob/master/img/screenshot/read1.png?raw=true)
 
-* `gulp` the default task that builds everything
-* `gulp watch` browserSync opens the project in your default browser and live reloads when changes are made
-* `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
-* `gulp js` minifies the themes JS file
-* `gulp vendor` copies dependencies from node_modules to the vendor directory
+## Read (Retrieve) for multiple tables and columns
 
-You must have npm installed globally in order to use this build environment. This theme was built using node v11.6.0 and the Gulp CLI v2.0.1. If Gulp is not running properly after running `npm install`, you may need to update node and/or the Gulp CLI locally.
+Read page that use multiple tables and columns in database.
 
-## Bugs and Issues
+![Homepage](https://github.com/NoorHelmi22/Basic-CRUD-for-PHP/blob/master/img/screenshot/read2.png?raw=true)
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-sb-admin-2/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/themes/sb-admin-2/).
+## Update for single table and column
 
-## About
+Update page that use single table and column in database.
 
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+![Homepage](https://github.com/NoorHelmi22/Basic-CRUD-for-PHP/blob/master/img/screenshot/update1.png?raw=true)
+
+## Update for multiple tables and columns
+
+Update page that use multiple tables and columns in database.
+
+![Homepage](https://github.com/NoorHelmi22/Basic-CRUD-for-PHP/blob/master/img/screenshot/update2.png?raw=true)
+
+## Delete
+
+Delete page.
+
+![Homepage](https://github.com/NoorHelmi22/Basic-CRUD-for-PHP/blob/master/img/screenshot/delete.png?raw=true)
+
+## Theme
+
+The theme for this website can be downloaded for free at
 
 * <https://startbootstrap.com>
-* <https://twitter.com/SBootstrap>
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**.
+## Copyright
 
-* <http://davidmiller.io>
-* <https://twitter.com/davidmillerskt>
-* <https://github.com/davidtmiller>
+Developed by Noor Helmi.
 
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-resume/blob/gh-pages/LICENSE) license.
+©2020 Noor Helmi. All right reserved - Bootstrap
